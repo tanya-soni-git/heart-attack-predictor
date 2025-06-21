@@ -5,7 +5,7 @@ This project is a Machine Learning–based web application that predicts the ris
 ## 🚀 Live Demo
 
 👉 [Launch the App](https://heart-attack-predictor-2nxkdzvgkct9xr4j2gthcg.streamlit.app/)  
-_(Replace with your actual Streamlit Cloud URL after deployment)_
+
 
 ---
 
